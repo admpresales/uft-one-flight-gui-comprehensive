@@ -38,22 +38,23 @@ Process Order=
 Lang=none
 
 [TulipInfo]
-ProductName=Micro Focus Unified Functional Testing
-Version=14.50
+ProductName=OpenText UFT One
+Version=23.4
 
 [TulipAddins]
+AI=
 Database=
 File Content=
 Insight=
 Windows Applications=
 TEA=
-Web=
 WPF=
 XML=
 
 [ExtraFiles]
 Test.tsp=
 Default.xls=
+Default.xlsx=
 Parameters.mtr=
 Action0\Script.mts=
 Action0\Resource.mtr=
